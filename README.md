@@ -44,6 +44,6 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jah-117&theme=gotham)](https://github.com/jah-117/github-readme-stats)
 
 # 📊 GitHub Streak:
-[![GitHub Streak](https://streak-stats.demolab.com?user=jah-117&theme=gotham&cache_seconds=86400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jah-117&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
