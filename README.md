@@ -41,7 +41,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jah-117&theme=github-dark-blue)](https://github.com/jah-117/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jah-117&theme=gotham)](https://github.com/jah-117/github-readme-stats)
 
 # 📊 GitHub Streak:
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=jah-117&theme=github-dark-blue)](https://git.io/streak-stats)-->
