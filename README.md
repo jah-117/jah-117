@@ -43,8 +43,7 @@
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jah-117&theme=gotham)](https://github.com/jah-117/github-readme-stats)
 
-# 📊 GitHub Streak:
+<!--# 📊 GitHub Streak:-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=jah-117&theme=github-dark-blue)](https://git.io/streak-stats)-->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jah-117&theme=github-dark-blue" alt="GitHub Streak" /></a>
 
 
